@@ -1,0 +1,8 @@
+{
+    "parent": "item/template/lever_template",
+    "textures": {
+        "top": "blocks/hopper_top",
+        "base": "blocks/cobblestone",
+        "lever": "blocks/lever"
+    }
+}

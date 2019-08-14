@@ -1,0 +1,7 @@
+{
+    "parent": "item/template/door_template",
+    "textures": {
+        "bottom": "engineersdoors:blocks/door_treated_reinforced_lower",
+        "top": "engineersdoors:blocks/door_treated_reinforced_upper"
+    }
+}

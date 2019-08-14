@@ -1,0 +1,7 @@
+{
+    "parent": "inspirations:item/template/glass_door_template",
+    "textures": {
+        "bottom": "inspirations:blocks/glass_door_lower",
+        "top": "inspirations:blocks/glass_door_upper"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "parent": "item/template/item_frame_template",
+    "textures": {
+        "particle": "blocks/planks_birch",
+        "wood": "blocks/planks_birch",
+        "back": "blocks/itemframe_background"
+    }
+}

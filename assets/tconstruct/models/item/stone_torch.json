@@ -1,0 +1,6 @@
+{
+    "parent": "item/template/torch_template",
+    "textures": {
+        "torch": "tconstruct:blocks/stone_torch"
+    }
+}

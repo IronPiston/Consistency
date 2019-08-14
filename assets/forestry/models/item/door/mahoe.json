@@ -1,0 +1,7 @@
+{
+    "parent": "item/template/door_template",
+    "textures": {
+        "bottom": "forestry:blocks/doors/mahoe_lower",
+        "top": "forestry:blocks/doors/mahoe_upper"
+    }
+}

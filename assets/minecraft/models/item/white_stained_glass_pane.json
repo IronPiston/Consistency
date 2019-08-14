@@ -1,0 +1,7 @@
+{
+    "parent": "item/template/glass_pane_template",
+    "textures": {
+        "layer0": "blocks/glass_white",
+		"top": "blocks/glass_pane_top_white"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "parent": "item/template/door_template",
+    "textures": {
+        "bottom": "pvj:blocks/door_baobab_lower",
+        "top": "pvj:blocks/door_baobab_upper"
+    }
+}

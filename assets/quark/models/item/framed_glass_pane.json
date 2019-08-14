@@ -1,0 +1,7 @@
+{
+    "parent": "item/template/glass_pane_template",
+    "textures": {
+        "layer0": "quark:blocks/framed_glass",
+		"top": "quark:blocks/framed_glass_pane_top"
+    }
+}

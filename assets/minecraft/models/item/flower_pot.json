@@ -1,0 +1,8 @@
+{
+    "parent": "item/template/pot_template",
+    "textures": {
+        "flowerpot": "blocks/flower_pot",
+        "dirt": "blocks/dirt"
+    }
+}
+

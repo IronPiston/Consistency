@@ -1,0 +1,8 @@
+{
+    "parent": "item/template/hopper_template",
+    "textures": {
+        "top": "tconstruct:blocks/hopper_top",
+        "side": "tconstruct:blocks/hopper_outside",
+        "inside": "tconstruct:blocks/hopper_inside"
+    }
+}

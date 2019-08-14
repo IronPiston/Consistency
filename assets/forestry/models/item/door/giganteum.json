@@ -1,0 +1,7 @@
+{
+    "parent": "item/template/door_template",
+    "textures": {
+        "bottom": "forestry:blocks/doors/giganteum_lower",
+        "top": "forestry:blocks/doors/giganteum_upper"
+    }
+}
